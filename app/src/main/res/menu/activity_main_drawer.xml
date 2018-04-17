@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_artists"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="Artyści FŁ" />
+        <item
+            android:id="@+id/nav_repertoire"
+            android:icon="@android:drawable/ic_menu_my_calendar"
+            android:checked="true"
+            android:title="Repertuar FŁ" />
+        <item
+            android:id="@+id/nav_ticket"
+            android:icon="@android:drawable/ic_menu_send"
+            android:title="Cennik biletów" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@android:drawable/ic_menu_zoom"
+            android:title="O FŁ" />
+    </group>
+
+    <item android:title="Komunikacja">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_map"
+                    android:icon="@android:drawable/ic_menu_directions"
+                    android:title="Mapa" />
+                <item
+                    android:id="@+id/nav_contact"
+                    android:icon="@android:drawable/ic_menu_call"
+                    android:title="Kontakt" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

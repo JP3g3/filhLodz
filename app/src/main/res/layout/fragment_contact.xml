@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_width="match_parent"
+            android:layout_height="190dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/fl2"/>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="@string/contact_title"
+            android:textAlignment="center"
+            android:textSize="36sp"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"/>
+
+        <TextView
+            android:id="@+id/desc1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img"
+            android:layout_marginTop="10dp"
+            android:text="@string/contact_desc"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:id="@+id/mail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/desc1"
+            android:text="@string/contact_mail"
+            android:textAlignment="center"
+            android:textStyle="italic"/>
+
+        <TextView
+            android:id="@+id/desc2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/mail"
+            android:text="@string/contact_desc2"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:id="@+id/tel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/desc2"
+            android:text="@string/contact_tel"
+            android:textAlignment="center"
+
+            android:textStyle="italic"/>
+
+        <TextView
+            android:id="@+id/mail2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tel"
+            android:text="@string/contact_mail2"
+            android:textAlignment="center"
+            android:textStyle="italic"/>
+
+
+    </RelativeLayout>
+</ScrollView>

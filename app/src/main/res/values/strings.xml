@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Filharmonia Łódzka BETA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="artist_title1">CHÓRMISTRZ\n- David Ber</string>
+    <string name="artists_desc1">Od sezonu 2011/2012 jest chórmistrzem Filharmonii Łódzkiej im. Artura Rubinsteina. 
+        Ukończył studia w Akademii Muzycznej im. G. i K. Bacewiczów w Łodzi w zakresie teorii muzyki w klasie prof. Franciszka Wesołowskiego oraz Studium Prowadzenia Zespół Wokalnych i Wokalno-Instrumentalnych w tej samej uczelni (1998). W 2000 roku ukończył z wyróżnieniem Podyplomowe Studia Chórmistrzowskie Akademii Muzycznej im. F. Nowowiejskiego w Bydgoszczy. W roku 2005 uzyskał tytuł doktora w dziedzinie dyrygentury w Akademii Muzycznej im. F. Chopina w Warszawie.\n
+        W latach 1995–1999 był etatowym pracownikiem Chóru Filharmonii Łódzkiej. W latach 1996–1998 prowadził działalność pedagogiczną jako nauczyciel przedmiotów z zakresu teorii muzyki i dyrygencką w Ogólnokształcącej Szkole Muzycznej I i II st. im. H. Wieniawskiego w Łodzi. Działalność tę kontynuuje od 1998 roku w Zespole Szkół Muzycznych im. S. Moniuszki w Łodzi (zajęcia z teorii muzyki – harmonia, kształcenie słuchu i chór mieszany). W latach 2004–2009 oraz 2010–2011 pełnił funkcję wicedyrektora w Zespole Szkół Muzycznych  im. S. Moniuszki w Łodzi. Od 2008 roku zatrudniony jest w Katedrze Edukacji Artystycznej Akademii Muzycznej w Łodzi, gdzie prowadzi klasę dyrygowania, obecnie na stanowisku adiunkta. Od 1992 roku nieprzerwanie prowadzi chór mieszany Kościoła Chrześcijan Baptystów  w Łodzi. Założył i przez 8 lat prowadził Zespół Wokalny Alla Camera, przez 15 lat był kierownikiem artystycznym i dyrygentem chóru mieszanego Towarzystwa Śpiewaczego Lutnia w Zgierzu, prowadził także Chór Nauczycielski w Łodzi. Od 2005 r. jest dyrygentem Chóru Kameralnego Vivid Singers. Od 2014 roku jest dyrygentem chóru Akademii Muzycznej im. G. i K. Bacewiczów w Łodzi.\n
+        Z prowadzonymi przez siebie chórami uzyskał kilkadziesiąt nagród i wyróżnień na licznych festiwalach i konkursach chóralnych w kraju i za granicą.\n
+        Koncertował w Polsce, Niemczech, Holandii, Austrii, Belgii, Danii, w Czechach, we Włoszech oraz na Litwie i Słowacji. Jest także jurorem i wykładowcą festiwali, konkursów, warsztatów i seminariów z zakresu teorii muzyki oraz chóralistyki.</string>
+    <string name="artist_title2">ORKIESTRA</string>
+    <string name="artists_desc2">Orkiestra Symfoniczna Filharmonii Łódzkiej im. Artura Rubinsteina jest jedną z najstarszych orkiestr w Polsce: jej protoplastą była działająca od 1915 roku Łódzka Orkiestra Symfoniczna, założona i prowadzona przez Tadeusza Mazurkiewicza – pianistę, pedagoga i dyrygenta, Józefa Friedberga – skrzypka i właściciela składu muzycznego, oraz Gottlieba Teschnera – wiolonczelistę, pedagoga, właściciela księgarni i składu muzycznego. Zespół od początku występował pod batutą wybitnych dyrygentów: Hermanna Abendrotha, Waleriana Bierdiajewa, Zdzisława Birnbauma, Grzegorza Fitelberga, Pawła Kleckiego, Sergiusza Kusewickiego, Emila Młynarskiego, Stanisława Skrowaczewskiego. W ostatnich latach zespół prowadzili m.in. Muhai Tang, Jan Krenz, Krzysztof Penderecki, Łukasz Borowicz, Karel Mark Chichon, Peter Hanke, Carlo Montanaro, Michael Zilm, Simon Gaudenz, Vladimir Kiradjiev, Jerzy Maksymiuk, Shlomo Mintz, Michał Nesterowicz, Michael Sanderling, Andrzej Straszyński, Michał Dworzyński i Krzysztof Urbański.\n
+        Splendoru orkiestrze dodają również nazwiska solistów, którzy z nią występowali. Byli to m.in.: Dawid i Igor Ojstrachowie, Światosław Richter, Mścisław Rostropowicz, Grażyna Bacewicz, Witold Małcużyński, Henryk Szeryng, Imre Ungar, Krystian Zimerman, a w ostatnich latach: Lang Lang, Piotr Anderszewski, Midori, Elina Garanča, Maria Guleghina, Evelyn Glennie, Ivo Pogorelich, Rafał Blechacz, Sergej Krylov, Alexei Volodin, Simon Trpčeski, Markus Schirmer, Avri Levitan, Jonathan Plowright, Natalie Clein, Julian Rachlin, Natalia Gutman, Sharon Kam, Elżbieta Chojnacka, Aleksandra Kurzak, Mariusz Kwiecień, Garrick Ohlsson.\n
+        Za „tłuste lata” Filharmonii Łódzkiej uważa się okres, kiedy stanowisko dyrektora artystycznego piastował Henryk Czyż (1957–1960 oraz 1972–1980) – charyzmatyczny dyrygent, kompozytor i popularyzator muzyki. Prowadził telewizyjne cykle programów „Nie taki diabeł straszny” oraz „I co dalej, laureacie?”, dzięki którym twarze łódzkich filharmoników stały się znane telewidzom. W latach 1971–1987, a więc w znacznej części razem z Czyżem, z Filharmonią Łódzką związany był, jako dyrygent i zastępca dyrektora do spraw artystycznych, Zdzisław Szostak. Ten znakomity dyrygent i kompozytor zasłynął zwłaszcza jako twórca muzyki filmowej, którą nagrywał z udziałem łódzkich filharmoników. Niezbędne w takich przypadkach wyczucie czasu miał opanowane w stopniu niedoścignionym.\n
+        Szczególnie pielęgnowana jest pamięć o koncertach z udziałem patrona Filharmonii, pianisty Artura Rubinsteina, który wystąpił między innymi podczas obchodów 60-lecia Filharmonii w 1975 roku.\n
+        Orkiestra i Chór FŁ dokonały kilkunastu nagrań płytowych. W ich wykonaniu zarejestrowana została m.in. II Symfonia Karola Szymanowskiego, V Symfonia Ludwiga van Beethovena i Carmina Burana Carla Orffa. Najnowszą produkcją jest wydana pod koniec 2013 roku nakładem firmy fonograficznej DUX  płyta z utworami Witolda Lutosławskiego na głos i orkiestrę, nominowana w 2015 r. do nagrody muzycznej Fryderyk.\n
+        Zespół odbył wiele zagranicznych tournées. W ostatnich latach odwiedził Austrię, Belgię, Holandię, Niemcy, Norwegię, Szwajcarię i Włochy, występując w tak prestiżowych salach koncertowych, jak Tonhalle w Zurychu, Salle de Musique w La Chaux-de-Fonds, Sala Królowej Elżbiety w Antwerpii, Filharmonia w Kolonii, Sala Verdiego w Konserwatorium w Mediolanie, czy głównej siedzibie Filharmonii w Rotterdamie – De Doelen. Koncertuje także w różnych miastach Polski.\n
+        Obok klasycznego repertuaru orkiestra często wykonuje również muzykę współczesną (Krzysztof Penderecki, Gija Kanczeli, Sofia Gubaidulina, Ivan Fedele, Pēteris Vasks, Joep Franssens, Marta Ptaszyńska, Paweł Mykietyn, Philip Glass, Andrzej Kwieciński, Paweł Szymański). Podczas obchodów stulecia dokonała m.in. premierowego wykonania utworów Musica festiva na dwoje organów i orkiestrę symfoniczną Krzysztofa Meyera oraz La città futurista na orkiestrę symfoniczną i zespół wykonawców-amatorów autorstwa Artura Zagajewskiego.</string>
+    <string name="artist_title3">CHÓR</string>
+    <string name="artists_desc3">Zespół działa od 1969 roku. Liczy ok. 50 osób, a dla potrzeb niektórych utworów występuje w powiększonym składzie. Od sezonu 2011/2012 pracuje pod kierownictwem Dawida Bera, cenionego łódzkiego dyrygenta, doświadczonego w kierowaniu różnorodnymi zespołami wokalnymi.\n
+        Chór dysponuje bogatym i wszechstronnym repertuarem, obejmującym wiele gatunków muzycznych, stylów i epok, przeznaczonych dla wokalistów z towarzyszeniem orkiestry symfonicznej, zespołów kameralnych oraz a cappella. Wykonuje kilkadziesiąt kompozycji oratoryjno-kantatowych, muzykę dawną, a także kolędy w opracowaniach tradycyjnych i współczesnych, utwory jazzowe, a nawet pieśni negro spirituals. Zespół dokonuje prawykonań utworów kompozytorów współczesnych; należy wspomnieć o Missa latina Z. Szostaka, Locus inaestimabilis K. Grzeszczaka, I Symfonii Capax Dei S. Kupczaka, Stabat Mater A. Zagajewskiego. Wiele dzieł współczesnych zespół wykonywał pod batutą kompozytorów. Także koncerty z okazji stulecia Filharmonii Łódzkiej były okazją do wykonania nowych kompozycji – w Łowiczu Chór premierowo wykonał Psalm Mariusza Lewego.\n
+        Zespół często śpiewa w festiwalach muzycznych: Wratislavia Cantans we Wrocławiu, Gaude Mater w Częstochowie, Wędrownym Festiwalu Filharmonii Łódzkiej „Kolory Polski” oraz Międzynarodowym Festiwalu i Konkursie Indywidualności Muzycznych im. Aleksandra Tansmana w Łodzi. Wraz z orkiestrą FŁ brał udział w międzynarodowym projekcie artystyczno-edukacyjnym Oratorium Dance Project, nagrodzonym w konkursie Energia Kultury 2011 oraz wyróżnionym Złotą Maską. W 2014 roku otrzymał Brązowy Medal Zasłużony Kulturze "Gloria Artis".\n
+        Chór koncertuje w sali koncertowej Filharmonii Łódzkiej oraz poza jej siedzibą, m.in. w  Archikolegiacie w Tumie, Kościele Ewangelicko-Augsburskim w Tomaszowie Mazowieckim czy Bazylice Katedralnej w Łowiczu. Odbył wiele zagranicznych tournées, występując m.in. we Francji,  Belgii i Austrii. Dokonał szeregu nagrań, m.in. dzieł wokalno-instrumentalnych Aleksandra Tansmana. Jedną z najnowszych produkcji z jego udziałem jest płyta z utworami Witolda Lutosławskiego na głos i orkiestrę (DUX), nominowana w 2015 r. do Fryderyka.</string>
+
+    <string name="about_title">FILHARMONIA ŁÓDZKA IM. ARTURA RUBINSTEINA</string>
+    <string name="about_desc">Na estradzie Filharmonii Łódzkiej najczęściej występuje Orkiestra Symfoniczna FŁ. Zapraszane są również zespoły z innych miast Polski oraz z zagranicy, jak choćby: Deutsche Symphony Orchester Berlin, Shanghai Symphony Orchestra, Orkiestra XVIII Wieku, Concerto Italiano i in.\n\nOprócz koncertów symfonicznych instytucja proponuje melomanom recitale fortepianowe, koncerty muzyki dawnej, a od niedawna również koncerty organowe. Do dzieci skierowane są warsztaty muzyczne prowadzone metodą Carla Orffa „Odkrywcy Muzyki” oraz inspirowane metodą E. E. Gordona warsztaty dla maluszków do lat trzech „Baby Boom Bum”. W czasie wakacji corocznie odbywa się Wędrowny Festiwal Filharmonii Łódzkiej „Kolory Polski”, który łączy aspekt artystyczny z lokalną turystyką. Gratką dla miłośników opery są regularne transmisje z nowojorskiej The Metropolitan Opera, które FŁ wprowadziła jako pierwsza instytucja w Polsce. Filharmonia Łódzka jest także pierwszym miejscem na świecie, gdzie w jednej sali koncertowej zabrzmiały dwie pary organów: barokowe oraz romantyczne.Od 2010 roku działa przy filharmonii „Chór dla (nie)opornych”, do którego może zapisać się każdy, niezależnie od posiadanych umiejętności muzycznych. Salon Przyjaciół Filharmonii Łódzkiej to z kolei propozycja skierowana do osób, które chcą silniej związać się z instytucją, rozmawiać o muzyce, spotykać się z artystami oraz aktywnie realizować swoje muzyczne pasje.\n\n Od 1984 roku Filharmonia Łódzka nosi imię Artura Rubinsteina – wybitnego pianisty-wirtuoza urodzonego w Łodzi, który wielokrotnie występował z rodzimą orkiestrą i to z nią dał jeden z ostatnich w swojej karierze koncertów.</string>
+
+    <string name="contact_title">Filharmonia Łódzka\nim.Artura Rubinsteina</string>
+    <string name="contact_desc">ul. Narutowicza 20/22\n 90-135 Łódź\n NIP: 724-00-05-070</string>
+    <string name="contact_mail">email: <u>filharmonia@filharmonia.lodz.pl</u></string>
+    <string name="contact_desc2">\nKASA BILETOWA: czynna:\n- poniedziałki, środy, czwartki w godzinach: 10 - 18\n- wtorki, piątki w godzinach: 10 - 20\n- godzinę przed każdym koncertem\n- podczas pierwszej przerwy w koncercie</string>
+    <string name="contact_tel">tel: <u>42 664 79 79</u></string>
+    <string name="contact_mail2">email: <u>bilety@filharmonia.lodz.pl</u></string>
+
+    <string-array name="events_name">
+        <item>Skierniewice</item>
+        <item>Rogów</item>
+        <item>Konstantynów łódzki</item>
+        <item>Dobroń</item>
+        <item>Lutomiersk</item>
+        <item>Brzeźnio</item>
+        <item>Warta</item>
+        <item>Wolbórz</item>
+    </string-array>
+
+    <string-array name="events_date">
+        <item>1 Lipiec 19:00</item>
+        <item>2 Lipiec 18:00</item>
+        <item>8 Lipiec 19:00</item>
+        <item>9 Lipiec 19:00</item>
+        <item>15 Lipiec 19:00</item>
+        <item>16 Lipiec 19:00</item>
+        <item>22 Lipiec 19:00</item>
+        <item>23 Lipiec 19:00</item>
+    </string-array>
+
+    <string-array name="events_desc">
+        <item>SATIS VERBORUM\n
+            INAUGURACJA 18. WĘDROWNEGO FESTIWALU FILHARMONII ŁÓDZKIEJ „KOLORY POLSKI”\n
+            SKIERNIEWICE, kościół pw. Wniebowzięcia Najświętszej Marii Panny, Plac Jana Pawła II\n\n
+            Wykonawcy: Maria Hubluk-Kaszuba – sopran, Małgorzata Pietrzykowska – mezzosopran, Przemysław Baiński – tenor, Bartosz Szulc – bas; Zbigniew Rymarczyk, Tomasz Kaszuba – fortepian; Krzysztof Suwald – organy; Dawid Ber, Maria Hubluk-Kaszuba – dyrygenci, Chór FŁ\n
+            W programie koncertu: Gregorio Allegri – „Miserere mei Deus”, Johannes Brahms –  „Geistliches Lied”, Josef Rheinberger – „Abendlied”, Marek Jasiński – „Psalm 100”, Gabriel Fauré – „Cantique de Jean Racine”, Arvo Pärt – „Veni Creator”, Henryk Mikołaj Górecki – „Totus tuus”, Giacchino Rossini – „Kyrie”i „Gloria” z Małej Mszy Uroczystej</item>
+        <item>ROGÓW, Arboretum SGGW, ul. Leśna 1 (scena plenerowa na leśnej polanie)\n
+            BOGUSŁAW KACZYŃSKI IN MEMORIAM\n\n
+            Sławomir Pietras – scenariusz i prowadzenie; Joanna Cortés, Joanna Horodko – sopran; Sylwester Kostecki, Marek Szymański – tenor; Arkadiusz Anyszka; Agnieszka Nagórka – dyrygent, Orkiestra Symfoniczna Filharmonii Łódzkiej\n
+            W programie koncertu: Georges Bizet – Uwertura, „Habanera” i „Kuplety torreadora” z opery „Carmen”, Giacomo Puccini – aria Pinkertona z opery „Madame Butterfly” i aria Cavaradossiego z opery „Tosca”, Wolfgang Amadeus Mozart – duet „La ci darem la mano” z opery „Don Giovanni”, Giuseppe Verdi – duet przyjaźni z opery „Don Carlos” i „Brindisi” z opery „Traviata”; Jacques Offenbach – „Barkarola” z operetki „Opowieści Hoffmanna”; Johann Strauss syn – „Wielka sława to żart” z operetki „Baron cygański”, Johann Strauss ojciec – Marsz Radetzkiego</item>
+        <item>KONSTANTYNÓW ŁÓDZKI, kościół pw. Narodzenia Najświętszej Maryi Panny,\n pl. Kościuszki 4/5\n\n BEREK\n
+            Mateusz Smoczyński Quintet w składzie: Mateusz Smoczyński – skrzypce, skrzypce barytonowe; Konrad Zemler – gitara; Jan Smoczyński – fortepian; Wojciech Pulcyn – kontrabas; Michał Miśkiewicz – perkusja\n
+            W programie koncertu utwory: „Przebiórka”, „Berek”, „Mleko i miód”, „Otwarte E”,  „Pożegnanie z Teksasem”, „Odcinki” (fortepian solo); „Gdybyś tylko chciał”, „Gruby kot”, „Jakoś leci”, „Jazda”, „Ballada dla M.”, „Empiria”, „Odcinki”</item>
+        <item>DOBROŃ, kościół pw. św. Wojciecha, ul. Sienkiewicza 41\n\n JUBILEUSZOWE DIVERTIMENTO\n\n
+            Kwintet smyczkowy Multicamerata w składzie: Izabela Bogusz – skrzypce I, Grzegorz Bogusz – skrzypce II, Marta Wroniszewska – altówka, Karol Wroniszewski – wiolonczela, Henryk Giza – kontrabas\n
+            W programie koncertu: Georg Friedrich Händel – Passacaglia, Giuseppe Tartini – Cantabile, Wolfgang Amadeus Mozart – Divertimento D-dur KV 138, Andrzej Koszewski  – Concerto Grosso „All antica per archi”, Fryderyk Chopin – Etiuda E-dur op. 10 nr 3</item>
+        <item>Lutomiersk, klasztor Księży Salezjanów\n\n
+            JAK ZAWSZE (NIE)OPORNI!  /18.15\n
+            Chór dla (nie)opornych, Mariusz Lewy – dyrygent\n
+            W programie: Deep River, Go Down Moses, O Happy Day, Elijah Rock, Sometimes I Feel Like a Motherless Child, Siyahamba, Akekho Ofana No Jesu</item>
+        <item>BRZEŹNIO K. SIERADZA, kościół pw. św. Idziego\n\n
+            OJ BOROM BOROM\n
+            Maniucha i Ksawery: Maniucha Bikont – głos, Ksawery Wójciński – kontrabas\n
+            W programie koncertu pieśni z ukraińskiego Polesia w minimalistycznej interpretacji na głos i kontrabas: „Oj borom, borom” – pieśń wiosenna, „Oj hore, hore”, „Maty syna porodyła” – pieśń weselna, „Wędrówka”, „Letiły husy” – pieśń sobótkowa, „Oddała mene”, „Czumak”, „Petriwka”, „Buła oseń chłodna”, „Oj chylitsja husti łozy”, „Rozłąka”, „Oj ty diwczyno”, „Usi hory zelenijut”, „Oj tam u poli” – kolęda życząca, „Uże Misza na dwori” – pieśń weselna, „Oj daj Boże od weczora” – pieśń żniwna.</item>
+        <item>WARTA, scena przed klasztorem oo. Bernardynów\n\n
+            PIOSENKI ZATRZYMANE W KADRZE\n
+            Apertus Quartet w składzie: Marta Kalińska-Strasińska – skrzypce I, Paulina Wielgosińska skrzypce II, Małgorzata Sowierka-Chmiel – altówka, Maria Katarzyna Filipiak – wiolonczela; oraz Katarzyna Dąbrowska – śpiew, Bartek Stępień – kontrabas, Radek Bolewski – perkusja\n
+            W programie koncertu najpiękniejsze piosenki z polskich filmów.</item>
+        <item>Wolbórz, kościół pw. Mikołaja Biskupa, plac Władysława Jagiełły 14\n\n
+            ESPAÑOLETA\n
+            Jacaras w składzie: Piotr Zaleski – timple; Julieta Gonzalez-Springer – śpiew; Łukasz Figiel – gitara basowa; Mateusz Ławniczak, Łukasz Oleszek, Martin Złotnicki – gitara\n
+            W programie koncertu: Antonio de Santa Cruz – „Jácaras”, Jose Marín – „No piense Menguilla ya” i „Si quieres dar Marica en lo cierto”,  Santiago de Murcia – Fandango, Gaspar Sanz – „Españoleta”, Francisco Guerau – „Villano”/„Canario” i „Marizápalos”, Anonim (Cancionero de la Sablonara) – „De tu vista celoso”, Juan Arañes – „Un sarao de la chacona”.</item>
+    </string-array>
+
+    <string-array name="ticket_eventType">
+        <item>Koncerty symfoniczne</item>
+        <item>Specjalne koncerty symfoniczne</item>
+        <item>Nadzwyczajne koncerty symfoniczne</item>
+        <item>Transmisje \"The Metropolitan Opera Live in HD\"</item>
+        <item>Koncerty kameralne i organowe</item>
+        <item>Koncerty szkolne, współorganizowane ze szkołami muzycznymi</item>
+        <item>Warsztaty dla dzieci \"Odkrywcy muzyki\"</item>
+        <item>Koncert \"Odkrywcy muzyki\"</item>
+        <item>Warsztaty dla dzieci \"Baby Boom Bum\"</item>
+        <item>Dziecięcy Uniwersytet Artystyczny (DUA)</item>
+    </string-array>
+
+    <string-array name="ticket_ticketType">
+        <item>Bilet normalny</item>
+        <item>Bilet ulgowy</item>
+    </string-array>
+
+    <string-array name="ticket_zoneType">
+        <item>Strefa 1</item>
+        <item>Strefa 2</item>
+        <item>Strefa 3</item>
+    </string-array>
+
+</resources>
